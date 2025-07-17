@@ -1,0 +1,30 @@
+{
+  "name": "appuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpazmino/appUser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jcpazmino/appUser/issues"
+  },
+  "homepage": "https://github.com/jcpazmino/appUser#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mime-types": "^2.1.35"
+  }
+}
