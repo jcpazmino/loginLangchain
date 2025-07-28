@@ -72,3 +72,6 @@ app.get('/api/proxy-documents', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Frontend disponible en http://localhost:${PORT}`);
 });
+
+
+
