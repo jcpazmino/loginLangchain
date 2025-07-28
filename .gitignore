@@ -34,4 +34,4 @@ build/
 uploads/
 archivoExtra/
 db/
-docs/
+# docs/
